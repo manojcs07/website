@@ -1,2 +1,2 @@
-FROM manojcs07/website
+FROM manojcs07/webapp
 ADD . /var/www/html
